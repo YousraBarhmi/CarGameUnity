@@ -1,7 +1,7 @@
 # Car Drifting Adventure
 
 ## Introduction
-Welcome to the Car Drifting Adventure project, developed in Unity, where you can experience the thrill of car drifting, nitro boosts, coin collection, and competing against other cars. In this game, you drive a green car, gather coins, avoid obstacles, and compete against red competitor cars. The game features a scoring system that rewards players for collecting coins and staying on the road while penalizing collisions and off-road driving.
+Welcome to the Car Drifting Adventure project, developed in Unity, where you can experience the thrill of car drifting, nitro boosts, coin collection, and competing against other cars. In this game, you drive a black car, gather coins, avoid obstacles, and compete against red competitor cars. The game features a scoring system that rewards players for collecting coins and staying on the road while penalizing collisions and off-road driving.
 
 ![image](https://github.com/YousraBarhmi/CarGameUnity/assets/138295122/8503d771-5d27-4dbc-ab21-9d6c9b2659ea)
 
@@ -18,7 +18,7 @@ Welcome to the Car Drifting Adventure project, developed in Unity, where you can
 ### Creating Vehicles
 
 #### Player Vehicle
-1. **Player Car Creation:** Create a green cube to represent the player's car, or import a car prefab from the Unity Asset Store.
+1. **Player Car Creation:** Create cube to represent the player's car, or import a car prefab from the Unity Asset Store.
 2. **Physics Simulation:** Attach a Rigidbody component to the player’s car to handle physics.
 
 #### Competitor Vehicles
